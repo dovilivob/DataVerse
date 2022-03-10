@@ -6,6 +6,9 @@
 *.png
 */.vscode/*
 */Blender/*
+/Video-to-3dPixels/Video_to_Array/Arrays.txt
+/Video-to-3dPixels/Video_to_Array/Array.txt
+/Video-to-3dPixels/Video_to_Array/Arrays.json
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
